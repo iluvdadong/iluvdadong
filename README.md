@@ -1,5 +1,5 @@
 
-Hello 🐵🤟, I'm Charlie. I'm open front-end developer who loves to talk about web/app technologies and design trends. I majored in both Media Design and Computer Science & Engineering in university. I worked as a freelance web designer for more than 3 years. After I got intereted in software development, I switched career as a programmer. Currently, I'm working as front-end developer.
+Hello 🐵🤟, I'm Charlie. I'm an open front-end developer who loves to talk about web/app technologies and design trends. I majored in both media design and CS in University. I worked as a freelance web designer for more than 3 years. After I got interested in software development, I switched my career path as a programmer. Currently, I'm working as front-end developer.
 
 ## 💻 TECH STACK
 
