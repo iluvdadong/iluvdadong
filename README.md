@@ -1,7 +1,7 @@
 
 Hello 🐵🤟, I'm Charlie. I'm open front-end developer who loves to talk about web/app technologies and design trends. I majored in both Media Design and Computer Science & Engineering in university. I worked as a freelance web designer for more than 3 years. After I got intereted in software development, I switched career as a programmer. Currently, I'm working as front-end developer.
 
-## 💻 STACK
+## 💻 TECH STACK
 
 ![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
@@ -21,7 +21,9 @@ Hello 🐵🤟, I'm Charlie. I'm open front-end developer who loves to talk abou
 
 
 ## 📫 HOW TO REACH ME
-[![monggu.dev@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dh77dh77@gmail.com)](mailto:dh77dh77@gmail.com) : dh77dh77@gmail.com 
+[![dh77dh77@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dh77dh77@gmail.com)](mailto:dh77dh77@gmail.com) : dh77dh77@gmail.com 
 
+## 📄 BLOG
+[![BLOG](https://img.shields.io/badge/BLOG-232F3E?style=flat-square)](https://kimcomdong.tistory.com/)
 
 
