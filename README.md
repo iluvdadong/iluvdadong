@@ -11,11 +11,6 @@
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white)
 ![](https://img.shields.io/badge/MSAzure-0078D4?style=flat-square&logo=MicrosoftAzure&logoColor=white)
 
-
-
-## 📫 HOW TO REACH ME
-[![dh77dh77@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dh77dh77@gmail.com)](mailto:dh77dh77@gmail.com) : dh77dh77@gmail.com 
-
 ## 📄 BLOG
 [![BLOG](https://img.shields.io/badge/BLOG-232F3E?style=flat-square)](https://kimcomdong.tistory.com/)
 
